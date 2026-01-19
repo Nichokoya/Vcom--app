@@ -1,0 +1,7 @@
+{
+  "name": "VCOM - Voice Crying Outreach Mandate",
+  "description": "An evangelism tool for the Voice Crying Outreach Mandate to track souls won, study the mandate, and receive AI-powered guidance on soul winning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
